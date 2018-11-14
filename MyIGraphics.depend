@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493291669 c:\users\user\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493346732 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493431354 c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432004 source:c:\users\ashikur\documents\myigraphics\bmpload.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1391970930 source:c:\users\ashikur\documents\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432174 c:\users\ashikur\documents\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493431718 source:c:\users\ashikur\documents\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
